@@ -3,7 +3,7 @@
 A simple and responsive calculator built using HTML, CSS, and JavaScript.
 
 ## 🚀 Live Demo
-👉 https://your-calculator.netlify.app
+👉 (https://app.netlify.com/projects/dashing-crepe-c96593)
 
 ## 🛠️ Features
 - Perform basic arithmetic operations
